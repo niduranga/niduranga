@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niduranga&label=Profile%20views&color=0e75b6&style=flat" alt="niduranga" /> </p>
-
+---
 - 🔭 I’m currently working on **Student Of Software Engineering**
 
 - 🌱 I’m currently learning **React + PHP + C# + JS**
