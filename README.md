@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niduranga Jayarathna</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
-
----
-
-I am a FullStack Web Developer
+<h3 align="center">I am a FullStack Web Developer</h3>
+   <div align="center"> <img src="https://komarev.com/ghpvc/?username=niduranga&&style=flat-square" align="center" /> </div>
+   
+------
 
  Currently, I am 22 years old. Self-taught web developer specializing in the Mern stack with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using the Mern stack for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
  
@@ -30,12 +29,9 @@ I am a FullStack Web Developer
  <a href="http://www.github.com/niduranga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niduranga&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
    
  <a href="https://github.com/niduranga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduranga&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
-   
-   <div align="center"> <img src="https://komarev.com/ghpvc/?username=niduranga&&style=flat-square" align="center" /> </div>
 
- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/niduranga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niduranga" /></a></p><br><br>
+
+<p><a href="https://www.buymeacoffee.com/niduranga"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niduranga" /></a></p><br><br>
  
    --------------------------------
    Credit: [niduranga]([https://github.com/krishnadev7](https://github.com/niduranga))
