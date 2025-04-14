@@ -20,7 +20,6 @@
  <h1 align='center'>Badges</h1>
  <br/> 
    <div align='center'>
- <b>My GitHub Stats</b>
  
  <a href="http://www.github.com/niduranga"><img src="https://github-readme-stats.vercel.app/api?username=niduranga&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="niduranga's GitHub stats" /></a>
    
