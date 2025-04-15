@@ -23,10 +23,6 @@
  
  <a href="http://www.github.com/niduranga"><img src="https://github-readme-stats.vercel.app/api?username=niduranga&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="niduranga's GitHub stats" /></a>
    
- 
- 
- <a href="http://www.github.com/niduranga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niduranga&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-   
  <a href="https://github.com/niduranga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduranga&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
