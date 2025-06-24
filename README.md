@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niduranga Jayarathna</h1>
-<h3 align="center">I am a FullStack Web Developer</h3>
+<h3 align="center">I am a Mobile & Web Developer</h3>
    <div align="center"> <img src="https://komarev.com/ghpvc/?username=niduranga&&style=flat-square" align="center" /> </div>
    
 ------
