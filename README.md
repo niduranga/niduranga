@@ -4,7 +4,7 @@
    
 ------
 
- Currently, I am 22 years old. Self-taught web developer specializing in the Mern stack with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using the Mern stack for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
+ Currently, I am 22 years old. Self-taught web & Mobile developer specializing in React, React Native and Laraval with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using React for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
  
  * 🌍  I'm based in Seeduwa, Srilanka
  * ✉️  You can contact me at [nidurangajayarathna@gmail.com](mailto:nidurangajayarathna@gmail.com)
