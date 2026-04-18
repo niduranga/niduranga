@@ -28,7 +28,7 @@
   },
   "current_focus": {
     "learning": "Advanced Laravel Security & Clean Architecture",
-    "experience": "1+ Year of shipping real-world apps"
+    "experience": "3+ Year of shipping real-world apps"
   },
   "status": "Open to Open-Source Collaborations"
 }
