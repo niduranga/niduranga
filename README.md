@@ -23,7 +23,7 @@
     "vibe": "Self-taught & Passionate"
   },
   "stack": {
-    "core": ["Laravel", "React.js", "Vue.js"],
+    "core": ["PHP", "Laravel", "React.js", "Vue.js", "React Native"],
     "database": ["MySQL", "PostgreSQL"]
   },
   "current_focus": {
