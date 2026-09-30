@@ -118,20 +118,17 @@ class Niduranga extends Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niduranga&theme=tokyonight" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niduranga&theme=tokyonight" alt="Stats"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niduranga&theme=tokyonight" alt="Top languages by repo"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niduranga&theme=tokyonight" alt="Top languages by commit"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=niduranga&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=niduranga&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niduranga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 </p>
 
 ---
@@ -151,38 +148,3 @@ class Niduranga extends Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:6D28D9,100:FF2D20&height=120&section=footer" alt="footer"/>
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Niduranga+Jayarathna;Web+Developer;Mobile+App+Developer;Laravel+Expert;React+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niduranga&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="niduranga" />
-</p>
-
-<p align="center">
-  <a href="mailto:nidurangajayarathna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/niduranga-jayarathna-1606b21b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
-### My Digital Universe
-
-```json
-{
-  "identity": {
-    "name": "Niduranga Jayarathna",
-    "origin": "Seeduwa, Sri Lanka",
-    "vibe": "Self-taught & Passionate"
-  },
-  "stack": {
-    "core": ["PHP", "Laravel", "React.js", "Vue.js", "React Native"],
-    "database": ["MySQL", "PostgreSQL"]
-  },
-  "current_focus": {
-    "learning": "Advanced Laravel Security & Clean Architecture",
-    "experience": "3+ Year of shipping real-world apps"
-  },
-  "status": "Open to Open-Source Collaborations"
-}
-```
