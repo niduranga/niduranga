@@ -29,7 +29,7 @@ namespace App\Developers;
 class Niduranga extends Developer
 {
     public string $location   = 'Seeduwa, Sri Lanka';
-    public int    $experience = 3; // years shipping production apps
+    public int    $experience = 3;
 
     public array $stack = [
         'backend'  => ['PHP', 'Laravel', 'REST APIs', 'Sanctum', 'Queues'],
